@@ -3,7 +3,7 @@ import ollama
 from retriever import retrieve_corporate_context
 
 st.set_page_config(page_title="SOC AI Assistant",)
-st.title("AI Assistant")
+st.title("Rivan AI Assistant")
 st.caption("Powered by Local RAG (ChromaDB) and Secure SLMs (Ollama)")
 st.divider()
 
